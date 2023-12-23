@@ -13,7 +13,7 @@ Welcome to the Sandhya Fitness portfolio, a dynamic website created using HTML, 
 - [Responsive Design](#responsive-design)
 - [Countdown Timer](#countdown-timer)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 
@@ -32,8 +32,5 @@ Welcome to the Sandhya Fitness portfolio, a dynamic website created using HTML, 
 5. **Responsive Design**: Ensures a seamless experience across various screen sizes.
 6. **Countdown Timer**: A dynamic countdown timer indicating a special deal end date.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://sandhyakumari543.github.io/CODSOFT-Landpage-Project/
+## DEMO
+ https://sandhyakumari543.github.io/CODSOFT-Landpage-Project/
