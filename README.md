@@ -36,4 +36,4 @@ Welcome to the Sandhya Fitness portfolio, a dynamic website created using HTML, 
 
 1. Clone the repository:
    ```bash
-   
+   git clone https://sandhyakumari543.github.io/CODSOFT-Landpage-Project/
